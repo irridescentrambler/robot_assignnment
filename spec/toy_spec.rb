@@ -1,5 +1,5 @@
 require_relative "spec_helper.rb"
-require "./toy.rb"
+require "./app/toy.rb"
 
 RSpec.describe "Testing Toy class" do
   before(:each) do
