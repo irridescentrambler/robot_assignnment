@@ -19,6 +19,8 @@ $ ruby main.rb
 
 ### Instructions
 After running code the program will ask you about co-ordinates and direction.
+
 Ex:- Enter coordinates and direction for the toy
---> 1,2,North
+--> 1,2,North.
+
 A toy robot will be placed at (1,2) and direction North.
